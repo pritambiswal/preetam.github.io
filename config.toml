@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "test.prilk.com"
 languageCode = "en-us"
 title = "Hugo Hero Theme"
 themesDir = "themes"
