@@ -5,60 +5,19 @@ icon: 'services/service-icon-2.png'
 featured: true
 draft: false
 heroHeading: 'SAP EWM'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroSubHeading: 'AP EXTENDED WAREHOUSE MANAGEMENT (EWM) SERVICES'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
 
-## Inter pectore totidem
+Clients and system integrators alike utilize our SAP EWM services for supplementing teams and adding niche skill-sets as they take on additional projects. Our independent Subject Matter Experts (SMEs) have additional expertise in SAP WM, EDI, RF, and shipping integration platforms. 
+We provide consultants for roles such as SAP EWM Functional and Technical Consultants, SAP ABAP Technical Leads and Programmers, SAP QA, SAP BA and BI, and SAP EWM/WM Trainers. With our approach, you receive an experienced team that you own and control for as long as it takes to implement your solution, ensuring better control over deliverables. 
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+ABAP developers, QA, technical and functional consultants, project managers, and financial business analysts have been utilized to successfully support hypercare activities, help desk, upgrades, and change management activities. 
+We work with highly skilled SAP Certified and SAP Platinum EWM Consultants that have the following domain expertise. 
 
-## Novis hunc qua erat caecisque
-
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+1. Functional—System configuration and prototyping in the areas of Inbound, Outbound, Internal Movements and Stock Change postings, Route determination and Shipping activities, Labor Management, and Wave template determination 
+2. Technical—Develop custom data loads using Excel XML, BAPIs, function modules, user exits, enhancement spots, BADIs, and data dictionary objects 
+3. Architects—Develop, implement and maintain the high-level design plan for the overall logical and technical IT architecture and/or enterprise structure in terms of governance structure, business processes, and business information 
+4. Quality Assurance—Deliver software-quality best practices in development environment, while working closely with software developers, business analysts, UI designers and other various teams across the organization 
+5. Trainers/Change Management—Design sustainability plan, interact with stakeholders for review of training deliverables, and deliver training sessions across multiple implementation sites
