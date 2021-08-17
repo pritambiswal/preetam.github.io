@@ -6,4 +6,5 @@ background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 align: right
 ---
 
-Prilk provides you consultancy with various technologies. We're not limited to a standard solution rather we innnovate & strive towards perfection.
+Having a trusted technology advisor on your side can ensure your business is fully prepared to meet any of the upcoming challenges of the digital era. Gain a competitive edge, streamline your internal operations and enhance your IT strategy with the right partner:. 
+We leverage vast experience in the industry, helping you tap into your business’ full potential and transform your operational and technological models. We specializes in Supply Chain, Retail SAP Services, designed to streamline your operations and drive sustainable growth. 

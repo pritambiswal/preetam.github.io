@@ -24,17 +24,6 @@
         <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.contact.address }}</li>
         {{ end }}
       </ul>
-      <h4 class="mt-4">Business Hours</h4>
-      <table class="table table-sm opening-hours-table">
-        {{ range .Site.Data.contact.hours }}
-        <tr>
-          <td class="day font-weight-bold">{{ .day }}</td>
-          <td class="opens">{{ .open }}</td>
-          <td>-</td>
-          <td class="closes">{{ .close }}</td>
-        </tr>
-        {{ end }}
-      </table>
     </div>
   </div>
 </div>
