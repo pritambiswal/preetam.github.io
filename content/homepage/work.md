@@ -2,8 +2,8 @@
 title: 'We Help Business Grow'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+button: 'Our Services'
+buttonLink: 'services'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+With our specialized service offering, we understand your organization, processes, technology and solutions by using quantitative and qualitative data as input. We prepare roadmap with actionable recommendations with quick wins and long-term improvements.
