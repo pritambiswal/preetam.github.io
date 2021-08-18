@@ -12,7 +12,6 @@ heroBackground: 'services/service1.jpg'
 
 Our SAP services are designed to help your business achieve sustainable growth through implementing innovative models. The key to remaining on top of your game in today’s rapidly changing economy is being flexible and developing capabilities that allow your organization to adjust itself when disruption redefines your possibilities.
 
-
 We offer a range of services that can help you improve your productivity, streamline your internal operations and ensure your business meets and exceeds its performance goals through custom-tailored SAP implementation. We have dedicated team with extensive background in the industry, evidence-based and tested methods, and tools to transform your business from the inside out. 
 The right SAP solution can completely revolutionize your organization and simplify processes at every level. We place special emphasis on the attention to detail and the custom-tailored approach. Our expert team will analyze your business operations and determine the best approach, tools, and resources needed to support your growth. 
 
