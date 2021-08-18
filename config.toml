@@ -8,7 +8,7 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Prilk is an IT consultancy which provides quality IT solutions in EU."
+    meta_description = "We simplify, analyze and identify the gaps in the business, and bridge them with best practice solutions."
     meta_og_title = "Prilk Consulting"
     meta_og_type = "website"
     meta_og_url = "https://www.prilk.com"
