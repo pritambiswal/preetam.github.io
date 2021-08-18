@@ -9,14 +9,14 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Prilk is an IT consultancy which provides quality IT solutions in EU."
-    meta_og_title = "Prilk IT consultants"
+    meta_og_title = "Prilk Consulting"
     meta_og_type = "website"
-    meta_og_url = "https://prilk.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_url = "https://www.prilk.com"
+    meta_og_image = "https://www.prilk.com/images/logo.jpg"
+    meta_og_description = "We simplify, analyze and identify the gaps in the business, and bridge them with best practice solutions."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@prilk"
+    meta_twitter_creator = "@prilk"
 
 [[menu.main]]
 	name = "Services"
